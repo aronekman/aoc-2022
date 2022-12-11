@@ -1,0 +1,4 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.formatting.autopep8Args": ["--indent=2"]
+}
