@@ -3,6 +3,7 @@
     "@types/node": "^18.11.13"
   },
   "devDependencies": {
+    "prettier": "2.8.1",
     "ts-node": "^10.9.1"
   }
 }
