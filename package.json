@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@types/node": "^18.11.13"
+    "@types/node": "^18.11.17"
   },
   "devDependencies": {
     "prettier": "2.8.1",
